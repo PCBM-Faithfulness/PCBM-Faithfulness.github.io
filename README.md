@@ -1,6 +1,6 @@
-# PCBM-Faithfulness
+# Posthoc-CBM-Faithfulness
 
-This is the repository that contains source code for the [PCBM-Faithfulness webpage](https://posthoc-cbm-faithfulness.github.io).
+This is the repository that contains source code for the [Posthoc-CBM-Faithfulness webpage](https://posthoc-cbm-faithfulness.github.io).
 
 If you find our work useful please cite:
 ```
